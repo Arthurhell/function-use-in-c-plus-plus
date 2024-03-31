@@ -7,7 +7,6 @@ int SomaAUmNumero(int Numero, int NumeroAserSomado)
 	// retornando os valores com o operador '+'
 	return Numero + NumeroAserSomado;
 }
- nn
 int main()
 {
 	setlocale(LC_ALL, ("portuguese"));
